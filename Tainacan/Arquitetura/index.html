@@ -9,6 +9,10 @@
       
       
       
+        <link rel="prev" href="../home/">
+      
+      
+        <link rel="next" href="../Guia_De_Contribuicao/">
       
       
         
@@ -19,7 +23,7 @@
     
     
       
-        <title>Arquitetura - GCES- Tainacan</title>
+        <title>Arquitetura Tainacan - GCES- Tainacan</title>
       
     
     
@@ -69,6 +73,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#arquitetura-tainacan" class="md-skip">
+          Pular para conteúdo
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -100,7 +109,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Arquitetura
+              Arquitetura Tainacan
             
           </span>
         </div>
@@ -242,10 +251,12 @@
   
   
   
+    
+  
   
     
     
-      <li class="md-tabs__item">
+      <li class="md-tabs__item md-tabs__item--active">
         <a href="../home/" class="md-tabs__link">
           
   
@@ -443,24 +454,29 @@
       
   
   
+    
   
   
+  
     
     
     
     
-      
-      
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
         
           
-          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
             
   
   
@@ -478,7 +494,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_3">
             <span class="md-nav__icon md-icon"></span>
             
@@ -521,10 +537,37 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../arquitetura.md" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Arquitetura Tainacan
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   
@@ -540,6 +583,243 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#organizacao-dos-repositorios" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Organização dos Repositórios
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Organização dos Repositórios">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tainacan-plugin-principal" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🔹 tainacan (Plugin principal)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tainacan-interface" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🔹 tainacan-interface
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tainacan-themes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🔹 tainacan-themes
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#camada-de-aplicacao-backend" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Camada de Aplicação (Backend)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Camada de Aplicação (Backend)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#responsabilidades" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Responsabilidades:
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#banco-de-dados" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Banco de Dados
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#camada-de-apresentacao-frontend-administrativo" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Camada de Apresentação (Frontend Administrativo)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Camada de Apresentação (Frontend Administrativo)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#caracteristicas" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Características:
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#funcionamento" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Funcionamento
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#camada-de-apresentacao-frontend-publico" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Camada de Apresentação (Frontend Público)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Camada de Apresentação (Frontend Público)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tecnologias-envolvidas" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tecnologias envolvidas:
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#funcionalidades" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Funcionalidades:
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#camada-de-integracao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Camada de Integração
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Camada de Integração">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#responsabilidades_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Responsabilidades:
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fluxo-de-dados" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Fluxo de Dados
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Histórico de Versões
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -552,7 +832,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../Guia_De_Contruibuicao.md" class="md-nav__link">
+      <a href="../Guia_De_Contribuicao/" class="md-nav__link">
         
   
   
@@ -624,6 +904,233 @@
   
   
   
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#organizacao-dos-repositorios" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Organização dos Repositórios
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Organização dos Repositórios">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tainacan-plugin-principal" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🔹 tainacan (Plugin principal)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tainacan-interface" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🔹 tainacan-interface
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tainacan-themes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        🔹 tainacan-themes
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#camada-de-aplicacao-backend" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Camada de Aplicação (Backend)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Camada de Aplicação (Backend)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#responsabilidades" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Responsabilidades:
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#banco-de-dados" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Banco de Dados
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#camada-de-apresentacao-frontend-administrativo" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Camada de Apresentação (Frontend Administrativo)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Camada de Apresentação (Frontend Administrativo)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#caracteristicas" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Características:
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#funcionamento" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Funcionamento
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#camada-de-apresentacao-frontend-publico" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Camada de Apresentação (Frontend Público)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Camada de Apresentação (Frontend Público)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tecnologias-envolvidas" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tecnologias envolvidas:
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#funcionalidades" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Funcionalidades:
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#camada-de-integracao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Camada de Integração
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Camada de Integração">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#responsabilidades_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Responsabilidades:
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fluxo-de-dados" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Fluxo de Dados
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Histórico de Versões
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
   
 </nav>
                   </div>
@@ -643,9 +1150,161 @@
   
 
 
-  <h1>Arquitetura</h1>
-
-
+<h1 id="arquitetura-tainacan">Arquitetura Tainacan</h1>
+<p>A arquitetura do Tainacan segue um modelo em camadas, combinando a estrutura consolidada do WordPress com tecnologias modernas de frontend e integração via API REST. Essa abordagem permite alta escalabilidade, flexibilidade e separação de responsabilidades entre interface, lógica de negócio e persistência de dados.</p>
+<p>Além disso, o projeto é dividido em diferentes repositórios no GitHub, cada um responsável por uma parte específica do sistema.</p>
+<hr />
+<h2 id="organizacao-dos-repositorios"><strong>Organização dos Repositórios</strong></h2>
+<p>O ecossistema do Tainacan é distribuído principalmente nos seguintes repositórios:</p>
+<h3 id="tainacan-plugin-principal">🔹 tainacan (Plugin principal)</h3>
+<p>Repositório central do sistema.</p>
+<p>Responsável por:</p>
+<ul>
+<li>Implementação da lógica de negócio</li>
+<li>Estrutura de coleções, itens e metadados</li>
+<li>Integração com o WordPress</li>
+<li>Exposição da API REST</li>
+</ul>
+<p>Tecnologias:</p>
+<div class="highlight"><pre><span></span><code>- PHP (backend)
+- WordPress (CMS base)
+</code></pre></div>
+<hr />
+<h3 id="tainacan-interface">🔹 tainacan-interface</h3>
+<p>Responsável pela interface administrativa do sistema.</p>
+<p>Função:</p>
+<ul>
+<li>Gerenciamento visual das coleções</li>
+<li>Criação e edição de itens</li>
+<li>Configuração de metadados e taxonomias</li>
+</ul>
+<p>Tecnologias:</p>
+<div class="highlight"><pre><span></span><code>- Vue.js
+- JavaScript moderno (ES6+)
+- Comunicação via API REST
+</code></pre></div>
+<hr />
+<h3 id="tainacan-themes">🔹 tainacan-themes</h3>
+<p>Conjunto de temas utilizados para exibição pública dos dados.</p>
+<p>Função:</p>
+<ul>
+<li>Renderização das coleções no frontend</li>
+<li>Customização visual do repositório</li>
+<li>Integração com blocos do WordPress</li>
+</ul>
+<p>Tecnologias:</p>
+<div class="highlight"><pre><span></span><code>- PHP
+- HTML/CSS
+- React (Gutenberg)
+</code></pre></div>
+<hr />
+<h2 id="camada-de-aplicacao-backend"><strong>Camada de Aplicação (Backend)</strong></h2>
+<p>O backend do Tainacan é implementado como um plugin do WordPress, utilizando PHP como linguagem principal.</p>
+<h3 id="responsabilidades">Responsabilidades:</h3>
+<ul>
+<li>Gerenciamento de coleções e itens  </li>
+<li>Definição e validação de metadados  </li>
+<li>Controle de permissões e usuários  </li>
+<li>Implementação das regras de negócio  </li>
+<li>Exposição de endpoints REST  </li>
+</ul>
+<p>O backend utiliza a infraestrutura do WordPress para:</p>
+<ul>
+<li>Autenticação</li>
+<li>Gerenciamento de usuários</li>
+<li>Persistência de dados</li>
+</ul>
+<h3 id="banco-de-dados">Banco de Dados</h3>
+<p>O armazenamento é realizado em:</p>
+<ul>
+<li><strong>MySQL</strong> ou <strong>MariaDB</strong></li>
+</ul>
+<p>Os dados são estruturados utilizando:</p>
+<ul>
+<li>Tabelas nativas do WordPress</li>
+<li>Custom Post Types (para itens)</li>
+<li>Taxonomias personalizadas</li>
+<li>Metadados armazenados como post meta</li>
+</ul>
+<p>Essa abordagem permite compatibilidade total com o ecossistema WordPress.</p>
+<hr />
+<h2 id="camada-de-apresentacao-frontend-administrativo"><strong>Camada de Apresentação (Frontend Administrativo)</strong></h2>
+<p>A interface administrativa do Tainacan é construída como uma <strong>Single Page Application (SPA)</strong>, utilizando Vue.js.</p>
+<h3 id="caracteristicas">Características:</h3>
+<ul>
+<li>Navegação dinâmica sem recarregamento de página  </li>
+<li>Interface altamente interativa  </li>
+<li>Comunicação assíncrona com o backend  </li>
+<li>Atualizações em tempo real via API  </li>
+</ul>
+<h3 id="funcionamento">Funcionamento</h3>
+<p>O frontend consome a API REST do Tainacan para:</p>
+<ul>
+<li>Criar e editar coleções  </li>
+<li>Gerenciar itens  </li>
+<li>Configurar metadados  </li>
+<li>Aplicar filtros e buscas  </li>
+</ul>
+<p>Essa separação entre frontend e backend melhora:</p>
+<ul>
+<li>Performance</li>
+<li>Manutenibilidade</li>
+<li>Escalabilidade do sistema</li>
+</ul>
+<hr />
+<h2 id="camada-de-apresentacao-frontend-publico"><strong>Camada de Apresentação (Frontend Público)</strong></h2>
+<p>A camada pública é responsável pela exibição dos dados para os usuários finais.</p>
+<p>Ela é construída utilizando o próprio WordPress, com suporte a temas e blocos.</p>
+<h3 id="tecnologias-envolvidas">Tecnologias envolvidas:</h3>
+<div class="highlight"><pre><span></span><code>- PHP (renderização server-side)  
+- React (blocos Gutenberg)  
+- HTML, CSS e JavaScript  
+</code></pre></div>
+<h3 id="funcionalidades">Funcionalidades:</h3>
+<ul>
+<li>Exibição de coleções e itens  </li>
+<li>Interface de busca e filtragem  </li>
+<li>Navegação por taxonomias  </li>
+<li>Customização visual via temas  </li>
+</ul>
+<p>Essa abordagem permite que o sistema seja facilmente adaptado ao design institucional.</p>
+<hr />
+<h2 id="camada-de-integracao"><strong>Camada de Integração</strong></h2>
+<p>A comunicação entre todas as camadas ocorre por meio de uma <strong>API RESTful</strong>.</p>
+<h3 id="responsabilidades_1">Responsabilidades:</h3>
+<ul>
+<li>Intermediar comunicação entre frontend e backend  </li>
+<li>Padronizar acesso aos dados  </li>
+<li>Permitir integração com sistemas externos  </li>
+</ul>
+<h3 id="fluxo-de-dados">Fluxo de Dados</h3>
+<div class="highlight"><pre><span></span><code>graph TD
+    A[Usuário] --&gt; B[Interface Vue.js / React]
+    B --&gt; C[API REST - Tainacan]
+    C --&gt; D[WordPress - PHP]
+    D --&gt; E[Banco de Dados - MySQL/MariaDB]
+</code></pre></div>
+<p>Essa arquitetura desacoplada permite que outros sistemas consumam os dados do Tainacan sem depender diretamente da interface padrão.</p>
+<hr />
+<h2 id="historico-de-versoes">Histórico de Versões</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Versão</th>
+<th style="text-align: center;">Data</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Autor(es)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><code>1.0</code></td>
+<td style="text-align: center;">12/04/2026</td>
+<td style="text-align: center;">Criação da pagina conheça o Tainacan</td>
+<td style="text-align: center;"><a href="https://github.com/mayara-tech">Mayara Alves</a></td>
+</tr>
+</tbody>
+</table>
 
 
 
@@ -676,6 +1335,44 @@
       
         <footer class="md-footer">
   
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Rodapé" >
+        
+          
+          <a href="../home/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Conheça o Tainacan">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Anterior
+              </span>
+              <div class="md-ellipsis">
+                Conheça o Tainacan
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../Guia_De_Contribuicao/" class="md-footer__link md-footer__link--next" aria-label="Próximo: Guia de contribuição">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Próximo
+              </span>
+              <div class="md-ellipsis">
+                Guia de contribuição
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
     
   
   <div class="md-footer-meta md-typeset">
