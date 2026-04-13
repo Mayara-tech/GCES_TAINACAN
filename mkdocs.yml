@@ -21,7 +21,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Atas:
-    - Ata 01: Atas/ata1.md
+    - Ata 01: Atas/Ata_01.md
 theme:
   name: material
   features:
@@ -49,6 +49,6 @@ theme:
         name: Mudar para o modo claro
 
   language: pt-BR
-  logo: assets/icon.png
+  logo: assets/logo_tainacan.png
   favicon: assets/icon.png
 
