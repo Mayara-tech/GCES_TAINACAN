@@ -1,7 +1,7 @@
 # GRUPO TAINACAN 
 
 <p align="center">
-  <img src="/assets/logo_tainacan.png" alt="Tainacan" width="500">
+  <img src="../assets/logo_tainacan.png" alt="Tainacan" width="500">
 </p>
 
 ##  **Sobre o Projeto**
