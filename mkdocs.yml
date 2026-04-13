@@ -22,6 +22,11 @@ nav:
   - Home: index.md
   - Atas:
     - Ata 01: Atas/Ata_01.md
+  - Tainacan:
+    - Conheça o Tainacan: Tainacan/home.md
+    - Arquitetura Tainacan: Tainacan/Arquitetura.md
+    - Guia de contribuição: Tainacan/Guia_De_Contribuicao.md
+  - Sprint 0: Sprints/Sprint_0.md
 theme:
   name: material
   features:
@@ -34,7 +39,7 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: grey
+      primary: blue
       accent: blue
       toggle:
         icon: material/brightness-7

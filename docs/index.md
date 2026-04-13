@@ -32,11 +32,17 @@
 
 
 ## **Colaboradores**
-| <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/u/67807684?s=96&v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Atyrson Souto](https://github.com/) | [João Victor Marques](https://github.com/) | [Marco Marques](https://github.com/) | [Mayara Alves](https://github.com/Mayara-tech) | [Julia Sant´Anna](https://github.com/) | [Letícia Resende](https://github.com/) | [Jefferson Sena](https://github.com/) | [Breno Soares](https://github.com/) | [Vinícius Edwardo](https://github.com/Mayara-tech) | [Diogo Balbino](https://github.com/) | [Raquel Temóteo](https://github.com/Mayara-tech) | [Caio Pacheco](https://github.com/) |
+
+| <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/u/67807684?s=96&v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Atyrson Souto](https://github.com/) | [João Victor Marques](https://github.com/) | [Marco Marques](https://github.com/) | [Mayara Alves](https://github.com/Mayara-tech) | [Julia Sant´Anna](https://github.com/) | [Letícia Resende](https://github.com/) |
+
+| <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> |<img src="https://avatars.githubusercontent.com/" width="100px"> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Jefferson Sena](https://github.com/) | [Breno Soares](https://github.com/) | [Vinícius Edwardo](https://github.com/Mayara-tech) | [Diogo Balbino](https://github.com/) | [Raquel Temóteo](https://github.com/Mayara-tech) | [Caio Pacheco](https://github.com/) |[Danilo Sarmento](https://github.com/) |
 
 ###  **Licença:**
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE.md para obter mais informações.
+
 
