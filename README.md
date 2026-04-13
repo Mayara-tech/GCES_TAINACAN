@@ -9,7 +9,7 @@
 <p align="justify"> &emsp;&emsp; Este projeto tem como objetivo documentar as contribuições para Software Livre Tainacan, que trata-se de uma ferramenta flexível e poderosa para WordPress, que permite o gerenciamento e a publicação de coleções digitais com a mesma facilidade de publicação de posts em blogs, mas mantendo todos os requisitos de uma plataforma profissional para repositórios.<br> <br> O objetivo e contruibuir para um software ja avançado para aplicar as tecnicas e ferramentas aprendidas no disciplina de GCES - Gerencia de Configuração e Evolução de Software</p>
 
 ##  Documentação
-:open_file_folder: Para mais informações sobre o projeto Tainacan acesse a <a href="https://tainacan.github.io/tainacan-wiki/#/pt-br/README">**documentação</a>**
+Para mais informações sobre o projeto Tainacan acesse a <a href="https://tainacan.github.io/tainacan-wiki/#/pt-br/README">**documentação</a>**
 
 ##  Sobre o Tainacan
 
