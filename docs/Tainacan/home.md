@@ -1,7 +1,7 @@
 # Tainacan
 
 <p align="center">
-  <img src="../assets/logo_tainacan.png" alt="Tainacan" width="500">
+  <img src="assets/logo_tainacan.png" alt="Tainacan" width="500">
 </p>
 
 <p align="justify"> &emsp;&emsp; O Tainacan é uma plataforma de código aberto desenvolvida para a criação, gestão e publicação de repositórios digitais. Ele funciona como um plugin do WordPress, ampliando suas funcionalidades para permitir a organização de acervos digitais complexos, com suporte a metadados estruturados, taxonomias e mecanismos avançados de busca.</p>
