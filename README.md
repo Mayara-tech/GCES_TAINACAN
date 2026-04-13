@@ -19,7 +19,9 @@
 
 ##  Tainacan
 
-O repositório da plataforma Tainacan está disponível no GitHub, contendo o código-fonte e materiais relacionados ao desenvolvimento da plataforma. Acesse em: https://github.com/Tainacan
+O repositório da plataforma Tainacan está disponível no GitHub, contendo o código-fonte e materiais relacionados ao desenvolvimento da plataforma. 
+
+Acesse em: https://github.com/Tainacan
 
 Site oficial: https://tainacan.org/
 
@@ -27,8 +29,12 @@ Documentação: https://tainacan.github.io/tainacan-wiki/#/pt-br/README
 
 
 
-## :handshake: Colaboradores
+### Colaboradores
 
+| <img src="https://avatars.githubusercontent.com/" width="100px" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/" width="100px" style="border-radius: 50%;"> |<img src="https://avatars.githubusercontent.com/" width="100px" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/" width="100px" style="border-radius: 50%;"> |<img src="https://avatars.githubusercontent.com/" width="100px" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/" width="100px" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/" width="100px" style="border-radius: 50%;"> |<img src="https://avatars.githubusercontent.com/" width="100px" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/" width="100px" style="border-radius: 50%;"> |<img src="https://avatars.githubusercontent.com/" width="100px" style="border-radius: 50%;"> | <img src="https://avatars.githubusercontent.com/" width="100px" style="border-radius: 50%;"> |<img src="https://avatars.githubusercontent.com/" width="100px" style="border-radius: 50%;"> |
+|:------------------------------------------------:|:------------------------------------------------:|:------------------------------------------------:|:-------------------------------------------------------------:|:----------------------------------------------------:|:------------------------------------------------:|:------------------------------------------------:|:------------------------------------------------:|:-------------------------------------------------------------:|:----------------------------------------------------:|:-----------------------------
+-------------------:|:-------------------------------------------------------------:|
+|[Atyrson Souto](https://github.com/)    | [João Victor Marques](https://github.com/)  | [Marco Marques](https://github.com/)     | [Mayara Alves](https://github.com/Mayara-tech)      | [Julia Sant´Anna](https://github.com/)      | |[Letícia Resende](https://github.com/)    | [Jefferson Sena](https://github.com/)  | [Breno Soares](https://github.com/)     | [Vinícius Edwardo](https://github.com/Mayara-tech)      | [Diogo Balbino](https://github.com/)      | [Raquel Temóteo](https://github.com/Mayara-tech)      | [Caio Pacheco ](https://github.com/)      | 
 
 ###  Licença:
 
