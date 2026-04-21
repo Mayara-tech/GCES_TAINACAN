@@ -78,7 +78,7 @@ Na tabela 2 consta o horário de início e o horário de término da reunião.
 
 
 
-## 📑 Histórico de Versões
+## Histórico de Versões
 
 | Versão |    Data    | Descrição |            Autor(es)            |
 | :----: | :--------: | :-------: | :-----------------------------: |

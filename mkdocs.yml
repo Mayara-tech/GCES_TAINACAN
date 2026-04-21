@@ -26,7 +26,10 @@ nav:
     - Conheça o Tainacan: Tainacan/home.md
     - Arquitetura Tainacan: Tainacan/Arquitetura.md
     - Guia de contribuição: Tainacan/Guia_De_Contribuicao.md
-  - Sprint 0 - Planejamento: Sprints/Sprint_0.md
+  - Sprint 0: 
+    - Sprint 0 - Planejamento: Sprints/Sprint_0.md
+    - Diario de bordo - Mayara: Sprints/Diario_de_Bordo_Mayara.md
+
 theme:
   name: material
   features:

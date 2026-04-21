@@ -74,9 +74,9 @@ Ao final da Sprint 0, foram entregues:
 
 Com base no retorno do professor Dalton e da compreensão inicial do Tainacan cada integrante do grupo decidiu em que aspecto gostaria de trabalhar ao longo da disciplina 
 
-| Matrícula | Aluno                               | Função |
+| Matrícula | Aluno                               | Interesse |
 | --------- | ----------------------------------- | -------- |
-| 251005945 | Atyrson Souto da Silva              |          |
+| 251005945 | Atyrson Souto da Silva              |   Documentação do software       |
 | 202017540 | Breno Soares Fernandes              |          |
 | 211029183 | Caio Pacheco Santos                 |          |
 | 222008468 | Danilo Sarmento Barros              |          |
