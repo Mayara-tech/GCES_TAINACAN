@@ -30,13 +30,26 @@ Por meio dele, é possível:
 
 Esse fluxo garante organização, rastreabilidade e qualidade no desenvolvimento do projeto.
 
+### Diretrizes de contribuição
+
+- **Política linguística**: Embora o Tainacan seja um projeto brasileiro, é adotado o inglês como idioma principal para assuntos de desenvolvimento. É permitido escrever comentários em português em **issues** e **pull requests**, desde que você forneça uma tradução em inglês dos seus comentários. É expressamente proibido escrever comentários em português em commits. Comentários sobre o código-fonte e nomes de variáveis ​​também devem ser escritos apenas em inglês.
+
+- **Modelo de Issues**: Uma issue é uma discussão dentro do repositório GitHub do projeto, focada em debater bugs, solicitações de recursos ou erros que possam ser encontrados. Para reunir o máximo de informações possível e organizar as discussões de forma mais clara e fácil de pesquisar, este repositório possui alguns modelos para as issues mais comuns:
+
+  - **Bug report**: Se algo não estiver funcionando corretamente no Tainacan.
+  - **Feature request**: Ideias de recurso para sugestão de desenvolvimento.
+
+### Colaboração na Wiki
+
+Para colaborar com a Wiki do projeto siga o [Guia do Tainacan](https://tainacan.github.io/tainacan-wiki/#/pt-br/CONTRIBUTING).
+
 ---
 
 ### 🔹 Fórum da Comunidade (Discourse)
 
 O Tainacan mantém um fórum oficial para interação e organização da comunidade:
 
-👉 https://tainacan.discourse.group/
+👉 [https://tainacan.discourse.group/](https://tainacan.discourse.group/)
 
 O fórum não se limita apenas ao suporte, sendo um dos principais espaços de comunicação do projeto.
 
@@ -70,7 +83,7 @@ Inclui:
 
 Subcategorias:
 
-```mermaid
+```
 
 - ❓ Dúvidas → Questões gerais  
 - 🐞 Erros → Problemas e falhas  
@@ -182,7 +195,8 @@ Para contribuir de forma eficiente, recomenda-se:
 - Criar commits claros e descritivos  
 - Testar antes de enviar contribuições  
 - Documentar alterações realizadas  
-- Verificar se já existe uma issue relacionada  
+- Verificar se já existe uma issue relacionada
+- Adotar o inglês para comentários de desenvolvimento
 
 ---
 
@@ -191,3 +205,4 @@ Para contribuir de forma eficiente, recomenda-se:
 | Versão |    Data    | Descrição |            Autor(es)            |
 | :----: | :--------: | :-------: | :-----------------------------: |
 | `1.0`  | 12/04/2026 |  Criação da pagina conheça o Tainacan    | [Mayara Alves](https://github.com/mayara-tech) |
+| `1.1`  | 17/04/2026 |  Atualiza informações de contribuição    | [Raquel Eucaria](https://github.com/raqueleucaria) |
