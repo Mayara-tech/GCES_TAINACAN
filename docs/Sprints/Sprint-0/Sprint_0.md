@@ -83,7 +83,7 @@ Com base no retorno do professor Dalton e da compreensão inicial do Tainacan ca
 | 221008570 | Diogo Balbido Ferreira              |          |
 | 200020323 | Jefferson Sena Oliveira             |          |
 | 221008570 | João Victor Marques Reis de Miranda |          |
-| 202044144 | Júlia Sant´Anna de Souza            |          |
+| 202044144 | Júlia Sant´Anna de Souza            |  Documentação do software        |
 | 211031118 | Letícia Resende da Silva            |          |
 | 211062197 | Marco Marques de Castro             |          |
 | 200025058 | Mayara Alves de Oliveira            | Documentação do software  |
