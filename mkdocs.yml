@@ -10,13 +10,21 @@ markdown_extensions:
   - md_in_html
   - pymdownx.caret
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_javascript:
+  - https://unpkg.com/mermaid@10/dist/mermaid.min.js
+  - javascripts/mermaid-init.js
 
 nav:
   - Home: index.md
@@ -26,10 +34,14 @@ nav:
     - Conheça o Tainacan: Tainacan/home.md
     - Arquitetura Tainacan: Tainacan/Arquitetura.md
     - Guia de contribuição: Tainacan/Guia_De_Contribuicao.md
-  - Sprint 0: 
-    - Sprint 0 - Planejamento: Sprints/Sprint_0.md
-    - Diario de bordo - Mayara: Sprints/Diario_de_Bordo_Mayara.md
-    - Diario de bordo - Alexandre: Sprints/Diario_de_Bordo_Alexandre_Junior.md
+  - Sprint 0:
+    - Sprint 0 - Planejamento: Sprints/Sprint-0/Sprint_0.md
+    - Sprint 0 - Dificuldades: Sprints/Sprint-0/Sprint_0_Dificuldades.md
+    - Diário de bordo - Alexandre: Sprints/Sprint-0/Diario_de_Bordo_Alexandre_Junior.md
+    - Diário de bordo - Danilo: Sprints/Sprint-0/Diario_de_Bordo_Danilo.md
+    - Diário de bordo - Mayara: Sprints/Sprint-0/Diario_de_Bordo_Mayara.md
+    - Diário de bordo - Marco: Sprints/Sprint-0/Diario_de_Bordo_Marco.md
+    - Diário de bordo - Raquel: Sprints/Sprint-0/Diario_de_Bordo_Raquel.md
 
 theme:
   name: material

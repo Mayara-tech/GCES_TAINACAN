@@ -22,7 +22,7 @@ Responsável por:
 
 Tecnologias:
 
-```mermaid
+```
 - PHP (backend)
 - WordPress (CMS base)
 ```
@@ -40,7 +40,7 @@ Função:
 
 Tecnologias:
 
-```mermaid
+```
 - Vue.js
 - JavaScript moderno (ES6+)
 - Comunicação via API REST

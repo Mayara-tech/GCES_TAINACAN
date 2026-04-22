@@ -23,23 +23,26 @@
 
 <p align="justify"> &emsp;&emsp; O repositório da plataforma Tainacan está disponível no GitHub, contendo o código-fonte e materiais relacionados ao desenvolvimento da plataforma. </p>
 
-- Acesse em: https://github.com/Tainacan
+- [GitHub](https://github.com/Tainacan)
 
-- Site oficial: https://tainacan.org/
+- [Site oficial](https://tainacan.org/)
 
-- Documentação: https://tainacan.github.io/tainacan-wiki/#/pt-br/README
+- [Documentação](https://tainacan.github.io/tainacan-wiki/#/pt-br/README)
 
 
 
-## **Colaboradores**
+### Colaboradores
+| <img src="https://github.com/alexandreljr.png?size=100" width="100px"> | <img src="https://github.com/andrelopesdesousa.png?size=100" width="100px"> | <img src="https://github.com/Atyrson.png?size=100" width="100px"> | <img src="https://github.com/Brenofrds.png?size=100" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> |
+|:---:|:---:|:---:|:---:|:---:|
+| [Alexandre Lema](https://github.com/alexandreljr) | [Andre Lopes](https://github.com/andrelopesdesousa) | [Atyrson Souto](https://github.com/Atyrson) | [Breno Soares](https://github.com/Brenofrds) | [Caio Pacheco](https://github.com/) |
 
-| <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/u/67807684?s=96&v=4" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Atyrson Souto](https://github.com/) | [João Victor Marques](https://github.com/) | [Marco Marques](https://github.com/) | [Mayara Alves](https://github.com/Mayara-tech) | [Julia Sant´Anna](https://github.com/) | [Letícia Resende](https://github.com/) |
+| <img src="https://github.com/auslogyc.png?size=100" width="100px"> | <img src="https://github.com/fdiogo1.png?size=100" width="100px"> | <img src="https://github.com/jeffersonsenaa.png?size=100" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://github.com/juliassouza.png?size=100" width="100px"> |
+|:---:|:---:|:---:|:---:|:---:|
+| [Danilo Sarmento](https://github.com/auslogyc) | [Diogo Balbino](https://github.com/fdiogo1) | [Jefferson Sena](https://github.com/jeffersonsenaa) | [João Victor Marques](https://github.com/) | [Júlia Sant’Anna](https://github.com/juliassouza) |
 
-| <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> | <img src="https://avatars.githubusercontent.com/" width="100px"> |<img src="https://avatars.githubusercontent.com/" width="100px"> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Jefferson Sena](https://github.com/) | [Breno Soares](https://github.com/) | [Vinícius Edwardo](https://github.com/Mayara-tech) | [Diogo Balbino](https://github.com/) | [Raquel Temóteo](https://github.com/Mayara-tech) | [Caio Pacheco](https://github.com/) |[Danilo Sarmento](https://github.com/) |
+| <img src="https://github.com/LeticiaResende23.png?size=100" width="100px"> | <img src="https://avatars.githubusercontent.com/u/108733538?s=100&v=4" width="100px"> | <img src="https://github.com/Mayara-tech.png?size=100" width="100px"> | <img src="https://github.com/raqueleucaria.png?size=100" width="100px"> | <img src="https://github.com/viniciused26.png?size=100" width="100px"> |
+|:---:|:---:|:---:|:---:|:---:|
+| [Letícia Resende](https://github.com/LeticiaResende23) | [Marco Marques](https://github.com/marcomarquesdc) | [Mayara Alves](https://github.com/Mayara-tech) | [Raquel Eucaria](https://github.com/raqueleucaria) | [Vinícius Edwardo](https://github.com/viniciused26) |
 
 ###  **Licença:**
 
