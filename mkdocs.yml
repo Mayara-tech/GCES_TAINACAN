@@ -34,10 +34,14 @@ nav:
     - Conheça o Tainacan: Tainacan/home.md
     - Arquitetura Tainacan: Tainacan/Arquitetura.md
     - Guia de contribuição: Tainacan/Guia_De_Contribuicao.md
-  - Sprint 0: 
-    - Sprint 0 - Planejamento: Sprints/Sprint_0.md
-    - Diario de bordo - Mayara: Sprints/Diario_de_Bordo_Mayara.md
-    - Diario de bordo - Alexandre: Sprints/Diario_de_Bordo_Alexandre_Junior.md
+  - Sprint 0:
+    - Sprint 0 - Planejamento: Sprints/Sprint-0/Sprint_0.md
+    - Sprint 0 - Dificuldades: Sprints/Sprint-0/Sprint_0_Dificuldades.md
+    - Diário de bordo - Alexandre: Sprints/Sprint-0/Diario_de_Bordo_Alexandre_Junior.md
+    - Diário de bordo - Danilo: Sprints/Sprint-0/Diario_de_Bordo_Danilo.md
+    - Diário de bordo - Mayara: Sprints/Sprint-0/Diario_de_Bordo_Mayara.md
+    - Diário de bordo - Marco: Sprints/Sprint-0/Diario_de_Bordo_Marco.md
+    - Diário de bordo - Raquel: Sprints/Sprint-0/Diario_de_Bordo_Raquel.md
 
 theme:
   name: material

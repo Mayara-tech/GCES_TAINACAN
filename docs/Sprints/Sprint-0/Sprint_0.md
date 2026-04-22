@@ -1,6 +1,6 @@
 # Sprint 0 – Planejamento
 
-A Sprint 0 tem como objetivo preparar o ambiente e alinhar o entendimento da equipe sobre o projeto, suas tecnologias e funcionamento. Nesta etapa, não há foco em desenvolvimento de funcionalidades, mas sim na criação da base necessária para o início das próximas sprints.
+A **Sprint 0** tem como objetivo preparar o ambiente e alinhar o entendimento da equipe sobre o projeto, suas tecnologias e funcionamento. Nesta etapa, não há foco em desenvolvimento de funcionalidades, mas sim na criação da base necessária para o início das próximas sprints.
 
 ---
 
@@ -87,7 +87,7 @@ Com base no retorno do professor Dalton e da compreensão inicial do Tainacan ca
 | 211031118 | Letícia Resende da Silva            |          |
 | 211062197 | Marco Marques de Castro             |          |
 | 200025058 | Mayara Alves de Oliveira            | Documentação do software  |
-| 202045268 | Raquel Temóteo Eucaria Pereira da Costa         |        |
+| 202045268 | Raquel Temóteo Eucaria Pereira da Costa         |  Documentação e desenvolvimento      |
 | 200025058 | Vínicius Edwardo Pereira de Oliveira            |        |
 
 ---
