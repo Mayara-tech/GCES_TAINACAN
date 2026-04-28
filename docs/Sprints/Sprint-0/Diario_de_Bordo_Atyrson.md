@@ -1,13 +1,21 @@
-# Diário de Bordo - Atyrson Souto da Silva
+# Diário de Bordo - Sprint 0
 
-### Sprint 0 : 06/04 - 20/04
+## Identificação
 
-### 🧾 Resumo da Sprint
+| Campo              | Valor               |
+|--------------------|---------------------|
+| Disciplina         | GCES                |
+| Integrante         | Atyrson Souto       |
+| Matrícula          | 251005945           |
+| Sprint             | 0                   |
+| Período            | 06/04/2026 a 20/04/2026 |
+
+###  Resumo da Sprint
 Nesta Sprint 0, o foco principal foi o onboarding no projeto Tainacan. Realizei o estudo da arquitetura do sistema e sua integração com o ecossistema WordPress. Um ponto central da minha sprint foi a configuração do ambiente de desenvolvimento no Windows utilizando **WSL (Windows Subsystem for Linux)**, o que permitiu uma execução mais fluida do ambiente. Além disso, realizei a build do projeto e validei a integridade do código através da execução completa da suíte de testes.
 
 ---
 
-### 📌 Atividades Realizadas
+###  Atividades Realizadas
 
 | Atividade | Tipo | Referência | Status |
 |----------|------|------------|--------|
@@ -21,7 +29,7 @@ Nesta Sprint 0, o foco principal foi o onboarding no projeto Tainacan. Realizei 
 
 ---
 
-### 🚀 Maiores Avanços
+###  Maiores Avanços
 **Configuração com WSL:**  
 A utilização do WSL no Windows proporcionou um ambiente de desenvolvimento Linux nativo, facilitando a gestão de dependências como PHP e o banco de dados, evitando conflitos comuns de ambiente Windows.
 
@@ -33,7 +41,7 @@ A realização da build permitiu entender o fluxo de transformação do código 
 
 ---
 
-### ⚠️ Maiores Dificuldades
+###  Maiores Dificuldades
 **Ajustes de permissão no WSL:**  
 Algumas configurações de permissão de arquivos entre o sistema de arquivos do Windows e o Linux exigiram atenção para que o servidor web pudesse ler corretamente os arquivos do WordPress.
 
@@ -42,19 +50,19 @@ Entender como as diferentes partes do Tainacan (frontend em Vue.js e backend em 
 
 ---
 
-### 📚 Aprendizados
+###  Aprendizados
 **Virtualização com WSL:**  
 Aprofundamento no uso do Windows Subsystem for Linux para desenvolvimento web moderno.
 
 **Processos de CI/CD e Testes:**  
-Entendimento da importância de rodar a suíte de testes localmente antes de qualquer submissão.
+Entendimento da importância de rodar a suíte de testes localmente.
 
 **Ecossistema WordPress:**  
 Aprendizado sobre como o Tainacan estende as capacidades do WordPress para gestão de acervos digitais.
 
 ---
 
-### 🎯 Plano Pessoal para a Próxima Sprint
+###  Plano Pessoal para a Próxima Sprint
 - Identificar uma issue de baixa complexidade (Good First Issue) para iniciar as contribuições.
 - Analisar os arquivos específicos relacionados à issue escolhida.
 - Realizar o fork do repositório oficial e configurar o fluxo de contribuição.
