@@ -20,11 +20,14 @@ Essa situação exigiu uma capacidade de adaptação imediata, fazendo com que e
 
 *Abaixo estão as evidências dos e-mails trocados com o professor e a justificativa sobre o uso da agenda:*
 
-![Tentativa de reunião no dia 5 de maio](print_reuniao_5_maio.png)
+![Tentativa de reunião no dia 5 de maio]<img width="1123" height="489" alt="Screenshot 2026-05-18 at 10 28 54 AM" src="https://github.com/user-attachments/assets/31a5972c-638d-4c48-8935-dba7b7c7ca60" />
 
-![Resposta do professor no dia 5 de maio](print_resposta_5_maio.png)
+![Resposta do professor no dia 5 de maio]
+<img width="1120" height="335" alt="Screenshot 2026-05-18 at 10 30 36 AM" src="https://github.com/user-attachments/assets/40109f47-4cd2-4b18-8df6-c6dd8dd35029" />
 
-![Tentativa de reunião e resposta no dia 11 de maio](print_reuniao_11_maio.png)
+![Tentativa de reunião e resposta no dia 11 de maio]
+<img width="1128" height="652" alt="Screenshot 2026-05-18 at 10 32 46 AM" src="https://github.com/user-attachments/assets/a4a56457-70a6-49f2-846b-1427ec4e214c" />
+
 
 ### 3.2. Contribuição no Projeto Tainacan (Issue #1031)
 A atividade técnica mais complexa e de maior peso da sprint foi a realização de uma contribuição efetiva no ecossistema do projeto. O repositório eleito para a intervenção foi o `tainacan/tainacan`. Após uma análise criteriosa das pendências, eu optei por assumir a responsabilidade pela *Issue* #1031, intitulada "Define get_adjacent_posts order based on default_orderby plugin settings".
@@ -44,9 +47,10 @@ O progresso pode ser diretamente acompanhado através do link: https://github.co
 
 *Abaixo estão as evidências visuais desta atividade no repositório:*
 
-![Pull Request #1034 aberto no GitHub](print_pr_1034.png)
+![Pull Request #1034 aberto no GitHub]<img width="1434" height="846" alt="Screenshot 2026-05-18 at 10 35 13 AM" src="https://github.com/user-attachments/assets/3efbd41d-c959-4470-92a5-ace45781b3cf" />
 
-![Comentário na issue #1031 assumindo a tarefa](print_comentario_issue_1031.png)
+![Comentário na issue #1031 assumindo a tarefa]<img width="949" height="227" alt="Screenshot 2026-05-18 at 10 34 00 AM" src="https://github.com/user-attachments/assets/ebae06d6-3bd6-4aeb-bace-488729109dd0" />
+
 
 ## 4. Resultados e Aprendizados
 O fechamento desta sprint trouxe aprendizados acadêmicos e práticos bastante substanciais para o meu desenvolvimento técnico. Eu pude aplicar na prática e consolidar de forma efetiva os meus conhecimentos em gerenciamento de configuração de software utilizando Git. Pude vivenciar ativamente as reais exigências do fluxo de colaboração utilizado em projetos e comunidades abertas de grande porte: desde manter os forks sempre atualizados, utilizar de forma disciplinada as branches específicas para cada funcionalidade, até a confecção de Pull Requests semanticamente estruturados que facilitem o trabalho do revisor.
