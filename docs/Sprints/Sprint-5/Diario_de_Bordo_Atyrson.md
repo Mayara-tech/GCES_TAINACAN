@@ -55,7 +55,7 @@ O trabalho foi dividido em etapas incrementais, começando pela adição dos atr
 
 O ambiente foi montado com **Docker Compose** (WordPress + MySQL 8.0), com a pasta `src/` montada como volume dentro do plugin. Foi necessário compilar os assets com `npm run build` (Webpack 5) a cada alteração nos blocos.
 
-![Containers Docker rodando WordPress e MySQL](../../assets/sprint5-atyrsond-docker.png)
+![Containers Docker rodando WordPress e MySQL](../../assets/containers_tainacan.png)
 
 Diferente do ambiente Windows comum, aqui não enfrentamos problemas com `rsync` ou extensões PHP — o Docker já provê um ambiente Linux completo. O principal desafio foi garantir que o volume bind refletisse corretamente os arquivos compilados.
 
@@ -99,7 +99,7 @@ Nos dois blocos, adicionei um **`ToggleControl`** no `PanelBody` de busca, visí
 
 Quando o toggle está ativo, os botões de ordenação ascendente/descendente são ocultados tanto no editor quanto no frontend (via `v-if="orderBy !== 'rand'"`).
 
-![ToggleControl "Random order" na sidebar do editor](../../assets/sprint5-atyrsond-toggle.png)
+![ToggleControl "Random order" na sidebar do editor](../../assets/randon_toggle.png)
 
 ### 5. Correção do conflito com searchURL
 
@@ -129,7 +129,12 @@ No `theme.vue` de ambos os blocos:
 
 Isso faz com que **cada F5** no frontend dispare uma requisição com `orderby=rand`, gerando uma ordem diferente a cada carregamento (sem seed, por design).
 
-![Frontend exibindo itens em ordem aleatória](../../assets/sprint5-atyrsond-frontend.png)
+![Frontend exibindo itens em ordem aleatória](../../assets/post_randon_1.png)
+<p align="center"><sub>Figura 1: Frontend exibindo itens em ordem aleatória.</sub></p>
+
+
+![Frontend exibindo itens em ordem aleatória após dar F5 na página](../../assets/post_randon_2.png)
+<p align="center"><sub>Figura 2: Frontend exibindo itens em ordem aleatória após dar F5 na página.</sub></p>
 
 ### 7. Testes automatizados (PHPUnit)
 
@@ -145,7 +150,7 @@ $ phpunit --filter Random_Sort
 OK (1 test, 3 assertions)
 ```
 
-![Teste PHPUnit passando](../../assets/sprint5-atyrsond-testes.png)
+![Teste PHPUnit passando](../../assets/teste_tainacan.png)
 
 ### 8. Compilação, validação e Pull Request
 
@@ -159,7 +164,7 @@ O build foi compilado com `npm run build` (Webpack 5.106.0, sucesso). A validaç
 
 A branch `feature/random-sort-items-list-blocks` foi enviada para o fork e a Pull Request foi aberta no repositório oficial com `Closes #914`.
 
-![Pull Request aberta no GitHub](../../assets/sprint5-atyrsond-pr.png)
+![Pull Request aberta no GitHub](../../assets/pr_aberto.png)
 
 ---
 
