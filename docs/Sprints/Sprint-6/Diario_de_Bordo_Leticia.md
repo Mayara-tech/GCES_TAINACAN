@@ -22,7 +22,9 @@ A issue tinha como objetivo aproveitar a refatoração feita anteriormente no pr
 
 Durante a implementação, foram adicionadas guias de ajuda para páginas principais como Dashboard, Repository, Settings, User Roles e System Check. Também foi criado um método reutilizável na classe base das páginas administrativas, permitindo que novas abas de ajuda sejam adicionadas de forma padronizada em outras telas no futuro.
 
-Apesar da implementação local ter sido concluída, não consegui criar uma branch para subir minha contribuição e também não consegui realizar o fork do repositório para abrir uma Pull Request. Por esse motivo, a contribuição ficou registrada localmente no projeto utilizado para a atividade.
+A contribuição foi registrada na Pull Request [#1066 - Resolução Edição 980](https://github.com/tainacan/tainacan/pull/1066), enviada da branch `desenvolver` do fork de Letícia Resende para a branch `develop` do repositório principal do Tainacan. A PR recebeu 2 commits e apresentou 218 adições e 13 exclusões.
+
+No momento da consulta, a PR ainda estava aguardando revisão e aprovação, com a fusão bloqueada pela necessidade de pelo menos uma revisão aprovada.
 
 ### Issue 980 
 
@@ -32,14 +34,23 @@ Apesar da implementação local ter sido concluída, não consegui criar uma bra
 
 ---
 
-## Dificuldade com Branch/Fork
+## Pull Request
 
 
-**Problema ao criar branch/fork**
+**Pull Request #1066 - Resolução Edição 980**
 
-![PR 1057_2](../../assets/ev5_leticia_sprint6..png)
+- [PR 1066 no GitHub](https://github.com/tainacan/tainacan/pull/1066)
+- 2 commits: `4f9254f` - `Resolution of issue 980` e `a1af8ee` - `Resolution of issue 980 ajustes`
+- 218 adições e 13 exclusões em 7 arquivos alterados
+- Revisão necessária antes do merge
+- Fusão bloqueada aguardando aprovação de pelo menos um revisor com permissão de escrita
 
-![PR 1057_2](../../assets/ev6_leticia_sprint6..png)
+![PR 1066](../../assets/pull1.png)
+
+![PR 1066](../../assets/pull2.png)
+
+![PR 1066](../../assets/pull3.png)
+
 
 ---
 
@@ -60,7 +71,7 @@ Apesar da implementação local ter sido concluída, não consegui criar uma bra
 | Adição de abas de ajuda na página System Check | Desenvolvimento | `class-tainacan-system-check.php` | Concluído |
 | Comparação com o arquivo `tainacan-develop.zip` fornecido como base | Validação | Projeto local | Concluído |
 | Verificação visual pelo VS Code usando busca nos arquivos | Validação | VS Code | Concluído |
-| Tentativa de preparar contribuição via GitHub | Git/GitHub | Branch/Fork | Não concluído |
+| Submissão da Pull Request #1066 | Git/GitHub | PR no repositório Tainacan | Concluído |
 
 ---
 
@@ -110,15 +121,10 @@ Além das abas com explicações, foram adicionados links de apoio na sidebar de
 
 ![PR 1057_2](../../assets/ev2_leticia_sprint6..png)
 
+![PR 1057_2](../../assets/teste1.png)
 ---
 
 ## Maiores Dificuldades
-
-### Dificuldade para criar branch e fork
-
-Uma das principais dificuldades encontradas foi no processo de contribuição via GitHub. Não consegui criar uma branch para organizar a implementação e também não consegui realizar o fork do repositório para abrir uma Pull Request.
-
-Por esse motivo, a implementação foi feita e validada localmente no projeto, mas não foi possível concluir o fluxo completo de contribuição para o repositório oficial.
 
 ### Dificuldade com comandos no terminal
 
@@ -166,4 +172,4 @@ Mesmo sem conseguir concluir o fork ou a criação da branch, a atividade mostro
 
 | Versão | Data | Descrição | Autor(es) |
 |---|---|---|---|
-| 1.0 | 30/06/2026 | Criação do Diário de Bordo da Sprint 6 referente à Issue #980 | [Letícia Resende](https://github.com/LeticiaResende23) |
+| 1.0 | 28/06/2026 | Criação do Diário de Bordo da Sprint 6 referente à Issue #980 | [Letícia Resende](https://github.com/LeticiaResende23) |
