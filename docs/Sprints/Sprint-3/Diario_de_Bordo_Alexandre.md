@@ -1,6 +1,14 @@
 # Diário de Bordo - Alexandre Lema Junior
 
 ---
+## Informações da Sprint
+
+| Item              | Descrição                |
+|-------------------|-------------------------|
+| Sprint            | Sprint 3                |
+| Data de Início    | 13/05/2026              |
+| Data de Término   | 27/05/2026              |
+| Responsável       | Alexandre Junior         |
 
 ## Resumo da Sprint
 
@@ -79,3 +87,4 @@ A escolha de uma contribuição envolve compreender não apenas a descrição da
 | Versão |    Data    |                Descrição               |     Autor(es)    |
 | :----: | :--------: | :------------------------------------: | :--------------: |
 |  `1.0` | 17/06/2026 | Criação do Diário de Bordo da Sprint 3 | [Alexandre Junior](https://github.com/AlexandreLJr) |
+|  `2.0` | 01/07/2026 | Adicionando tabela de datas | [Alexandre Junior](https://github.com/AlexandreLJr) |
