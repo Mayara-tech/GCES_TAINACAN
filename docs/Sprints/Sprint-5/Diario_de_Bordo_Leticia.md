@@ -154,11 +154,9 @@ Não foi possível executar `php -l`, pois o comando `php` não estava disponív
 
 ## Espaço para Print da Dificuldade com Branch/Fork
 
-Por falta de permissão, não foi possível criar uma branch específica nem realizar fork do repositório para subir a contribuição.
+Por falta de permissão, não foi possível criar uma branch específica para subir a contribuição.
 
-**Falha ou impossibilidade de criar branch/fork**
-
-![PR 1057_2](../../assets/ev5_leticia_sprint6..png)
+**Falha ou impossibilidade de criar branch**
 
 ![PR 1057_2](../../assets/ev6_leticia_sprint6..png)
 
@@ -201,4 +199,4 @@ Outro aprendizado importante foi a necessidade de manter fallbacks seguros. Mesm
 
 | Versão | Data | Descrição | Autor(es) |
 |---|---|---|---|
-| 1.0 | 30/06/2026 | Criação do Diário de Bordo da Sprint 5 referente à Issue #929 | [Letícia Resende](https://github.com/LeticiaResende23) |
+| 1.0 | 26/06/2026 | Criação do Diário de Bordo da Sprint 5 referente à Issue #929 | [Letícia Resende](https://github.com/LeticiaResende23) |
