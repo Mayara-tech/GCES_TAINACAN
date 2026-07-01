@@ -2,6 +2,15 @@
 
 ---
 
+## Informações da Sprint
+
+| Item              | Descrição                |
+|-------------------|-------------------------|
+| Sprint            | Sprint 4                |
+| Data de Início    | 27/05/2026              |
+| Data de Término   | 08/06/2026              |
+| Responsável       | Alexandre Junior         |
+
 ## Resumo da Sprint
 
 Após a análise das possibilidades apresentadas na sprint anterior, foi realizada a escolha da Issue [**#448– Term "cover page"**](https://github.com/tainacan/tainacan/issues/448) como foco da contribuição individual.
@@ -97,3 +106,4 @@ As discussões realizadas com os colaboradores foram essenciais para alinhar exp
 | Versão |    Data    |                Descrição               |     Autor(es)    |
 | :----: | :--------: | :------------------------------------: | :--------------: |
 |  `1.0` | 17/06/2026 | Criação do Diário de Bordo da Sprint 4 | [Alexandre Junior](https://github.com/AlexandreLJr) |
+|  `2.0` | 01/07/2026 | Adicionando tabela de datas | [Alexandre Junior](https://github.com/AlexandreLJr) |

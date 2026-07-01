@@ -2,6 +2,15 @@
 
 ---
 
+## Informações da Sprint
+
+| Item              | Descrição                |
+|-------------------|-------------------------|
+| Sprint            | Sprint 1                |
+| Data de Início    | 21/04/2026              |
+| Data de Término   | 13/05/2026              |
+| Responsável       | Alexandre Junior         |
+
 ##  Resumo da Sprint
 
 Durante esta sprint, o foco esteve na **transição da fase exploratória para a fase de contribuição efetiva**. As atividades incluíram aprofundamento na leitura da documentação existente do projeto, análise mais criteriosa do repositório de issues no GitHub e definição de uma estratégia de contribuição alinhada ao perfil não-código (documentação ou UX/UI). A sprint evidenciou a complexidade de entrar em um projeto maduro como contribuidor externo, exigindo mais tempo de pesquisa e triagem do que o inicialmente planejado. A ausência do representante do Tainacan em reunião previamente agendada também impactou o andamento da sprint.
@@ -73,3 +82,4 @@ A não comparência do representante evidenciou que, em projetos open source rea
 | Versão |    Data    | Descrição |            Autor(es)            |
 | :----: | :--------: | :-------: | :-----------------------------: |
 | `1.0`  | 27/05/2026 |   Criação do Diário de bordo da Sprint 1   | [Alexandre Junior](https://github.com/AlexandreLJr) |
+|  `2.0` | 01/07/2026 | Adicionando tabela de datas | [Alexandre Junior](https://github.com/AlexandreLJr) |
